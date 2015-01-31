@@ -1,0 +1,11 @@
+{
+	"name": {
+		"message": "Add to OmniFocus"
+	},
+	"desc": {
+		"message": "Adds any page to OmniFocus task manager"
+	},
+	"title": {
+		"message": "Add to OmniFocus"
+	}
+}

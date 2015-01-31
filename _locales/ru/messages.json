@@ -1,0 +1,11 @@
+{
+	"name": {
+		"message": "Добавить в OmniFocus"
+	},
+	"desc": {
+		"message": "Добавляет любую страницу в менеджер задач OmniFocus"
+	},
+	"title": {
+		"message": "Добавить в OmniFocus"
+	}
+}
