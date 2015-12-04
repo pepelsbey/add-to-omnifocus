@@ -8,7 +8,7 @@ chrome.browserAction.onClicked.addListener(function(tab) {
 
         chrome.tabs.update(tab.id, {
             url: 'omnifocus://'
-        },function() {
+        }, function() {
             setTimeout(function() {
                 chrome.tabs.update(tab.id, {
                     url:
